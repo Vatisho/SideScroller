@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: c6c38e13c1d053348bb2adb8abbe1e94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3120172790939992600
+    second: Atlas sprite Prota_0
+  - first:
+      213: 8125954053931043646
+    second: Atlas sprite Prota_1
+  - first:
+      213: -6166891607659487943
+    second: Atlas sprite Prota_2
+  - first:
+      213: -4297638795566183272
+    second: Atlas sprite Prota_3
+  - first:
+      213: -7273357124758842583
+    second: Atlas sprite Prota_4
+  - first:
+      213: -2470502692183196722
+    second: Atlas sprite Prota_5
+  - first:
+      213: 863103374942656177
+    second: Atlas sprite Prota_6
+  - first:
+      213: -3109900900869418545
+    second: Atlas sprite Prota_7
+  - first:
+      213: 9179646933117067372
+    second: Atlas sprite Prota_8
+  - first:
+      213: -5212128323891503232
+    second: Atlas sprite Prota_9
+  - first:
+      213: -581941483491400386
+    second: Atlas sprite Prota_10
+  - first:
+      213: -4264681188082687762
+    second: Atlas sprite Prota_11
+  - first:
+      213: 4875317853771815674
+    second: Atlas sprite Prota_12
+  - first:
+      213: -7222257380573353298
+    second: Atlas sprite Prota_13
+  - first:
+      213: -4101028409324569401
+    second: Atlas sprite Prota_14
+  - first:
+      213: 8013954878366602578
+    second: Atlas sprite Prota_15
+  - first:
+      213: -4296162263478603464
+    second: Atlas sprite Prota_16
+  - first:
+      213: -8804924514888959705
+    second: Atlas sprite Prota_17
+  - first:
+      213: -3512272284587653633
+    second: Atlas sprite Prota_18
+  - first:
+      213: 5026100824073419533
+    second: Atlas sprite Prota_19
+  - first:
+      213: -8904922631893665077
+    second: Atlas sprite Prota_20
+  - first:
+      213: 2467586945723052234
+    second: Atlas sprite Prota_21
+  - first:
+      213: 6283986962414819338
+    second: Atlas sprite Prota_22
+  - first:
+      213: 1087321419755874719
+    second: Atlas sprite Prota_23
+  - first:
+      213: 4465943415483268109
+    second: Atlas sprite Prota_24
+  - first:
+      213: 8562992355144239372
+    second: Atlas sprite Prota_25
+  - first:
+      213: 240342652802718515
+    second: Atlas sprite Prota_26
+  - first:
+      213: -910351302834553582
+    second: Atlas sprite Prota_27
+  - first:
+      213: 4004170010413569643
+    second: Atlas sprite Prota_28
+  - first:
+      213: 7219448038741839160
+    second: Atlas sprite Prota_29
+  - first:
+      213: -3990194338576530341
+    second: Atlas sprite Prota_30
+  - first:
+      213: -2629507694428531020
+    second: Atlas sprite Prota_31
+  - first:
+      213: -3047188058507065318
+    second: Atlas sprite Prota_32
+  - first:
+      213: 5704651239764234128
+    second: Atlas sprite Prota_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas sprite Prota_0
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 6855
+        width: 482
+        height: 1527
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edbe26c06be2b4d0800000000000000
+      internalID: -3120172790939992600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_1
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 6849
+        width: 518
+        height: 1533
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b84bda82035c070800000000000000
+      internalID: 8125954053931043646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_2
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 6849
+        width: 589
+        height: 1533
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d5e15a1ccca6aa0800000000000000
+      internalID: -6166891607659487943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_3
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 6855
+        width: 518
+        height: 1527
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c07590948bb54c0800000000000000
+      internalID: -4297638795566183272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_4
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 6861
+        width: 487
+        height: 1521
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923513e1b38df0b90800000000000000
+      internalID: -7273357124758842583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_5
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 6857
+        width: 506
+        height: 1525
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb36c704e207bdd0800000000000000
+      internalID: -2470502692183196722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_6
+      rect:
+        serializedVersion: 2
+        x: 5986
+        y: 6849
+        width: 607
+        height: 1533
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6d5e352fb5afb00800000000000000
+      internalID: 863103374942656177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_7
+      rect:
+        serializedVersion: 2
+        x: 6825
+        y: 6861
+        width: 506
+        height: 1521
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1d20d8b9967d4d0800000000000000
+      internalID: -3109900900869418545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_8
+      rect:
+        serializedVersion: 2
+        x: 7665
+        y: 6855
+        width: 482
+        height: 1527
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6062f3ff38a46f70800000000000000
+      internalID: 9179646933117067372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5260
+        width: 1053
+        height: 1547
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fd1ba87eccaa7b0800000000000000
+      internalID: -5212128323891503232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_10
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 5277
+        width: 679
+        height: 1530
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356e64dd478ce7f0800000000000000
+      internalID: -581941483491400386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_11
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 5266
+        width: 991
+        height: 1541
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee06a000e0fc0d4c0800000000000000
+      internalID: -4264681188082687762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_12
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 5272
+        width: 750
+        height: 1535
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa5039e1cb98a340800000000000000
+      internalID: 4875317853771815674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_13
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 5266
+        width: 1047
+        height: 1541
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa6b727d2365cb90800000000000000
+      internalID: -7222257380573353298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_14
+      rect:
+        serializedVersion: 2
+        x: 7933
+        y: 5267
+        width: 481
+        height: 1528
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc7c60d3683617c0800000000000000
+      internalID: -4101028409324569401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_15
+      rect:
+        serializedVersion: 2
+        x: 8844
+        y: 5266
+        width: 481
+        height: 1529
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255dc0b8089473f60800000000000000
+      internalID: 8013954878366602578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_16
+      rect:
+        serializedVersion: 2
+        x: 9707
+        y: 5261
+        width: 476
+        height: 1534
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8317be3fe27f064c0800000000000000
+      internalID: -4296162263478603464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_17
+      rect:
+        serializedVersion: 2
+        x: 10564
+        y: 5263
+        width: 476
+        height: 1532
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293aefddcf9ec580800000000000000
+      internalID: -8804924514888959705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_18
+      rect:
+        serializedVersion: 2
+        x: 11362
+        y: 5263
+        width: 476
+        height: 1532
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff504ba47f6e14fc0800000000000000
+      internalID: -3512272284587653633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3623
+        width: 726
+        height: 1547
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb130f11c40c540800000000000000
+      internalID: 5026100824073419533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_20
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 3622
+        width: 630
+        height: 1548
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca34adeb0c5b6480800000000000000
+      internalID: -8904922631893665077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_21
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3629
+        width: 833
+        height: 1541
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0b638d041ae3220800000000000000
+      internalID: 2467586945723052234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_22
+      rect:
+        serializedVersion: 2
+        x: 4034
+        y: 3628
+        width: 678
+        height: 1530
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08dbeb29d4353750800000000000000
+      internalID: 6283986962414819338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_23
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 3634
+        width: 738
+        height: 1536
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99e8350211f61f00800000000000000
+      internalID: 1087321419755874719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_24
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2003
+        width: 482
+        height: 1530
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cffd2ffd73afd30800000000000000
+      internalID: 4465943415483268109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_25
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2003
+        width: 584
+        height: 1530
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0902c6ad2cd5d670800000000000000
+      internalID: 8562992355144239372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_26
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1991
+        width: 869
+        height: 1542
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5eac8e5ed55300800000000000000
+      internalID: 240342652802718515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_27
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 2012
+        width: 560
+        height: 1515
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7bb53058cd53f0800000000000000
+      internalID: -910351302834553582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_28
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 2003
+        width: 482
+        height: 1530
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6619f2d86ba19730800000000000000
+      internalID: 4004170010413569643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 505
+        height: 1857
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d099fadb1a03460800000000000000
+      internalID: 7219448038741839160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_30
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 0
+        width: 577
+        height: 1860
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540f58d36bff98c0800000000000000
+      internalID: -3990194338576530341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_31
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 0
+        width: 762
+        height: 1783
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b65e630fac128bd0800000000000000
+      internalID: -2629507694428531020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_32
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 0
+        width: 1016
+        height: 1610
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18cfd00b9636b5d0800000000000000
+      internalID: -3047188058507065318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas sprite Prota_33
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 0
+        width: 2946
+        height: 1438
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f83a9f31efa2f40800000000000000
+      internalID: 5704651239764234128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0b61033ace339fc43a4dcfeca264cc89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
